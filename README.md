@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Proyecto realizado con las tecnologías de HTML y SASS. Proyecto que tiene como finalidad la creación del diseño de una página destinada a la venta de inmuebles de lugo. Solo posee Front-End y Responsive Web Design.
+Proyecto realizado con las tecnologías de HTML, SASS y JavaScript. Proyecto que tiene como finalidad la creación del diseño de una página destinada a la venta de inmuebles de lugo. Solo posee Front-End y Responsive Web Design.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
